@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Boutabba Mohamed Larbi from Algeria
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning Python, HTML, CSS, JavaScript,C#
+- 🌱 I’m currently learning Python, HTML, CSS, JavaScript, Tailwidcss, React, Nodejs, C#
 - 📫 Contact Me: Boutabba.larab@gmail.com
